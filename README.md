@@ -1,7 +1,34 @@
 # 👋 Hi, I'm Hadas Shemesh
 ### Software Developer | Backend & Full-Stack Engineer
 
-Highly motivated Software Developer with practical experience in **Python, Go, Java, and Cloud technologies**. Skilled in designing data-driven systems, optimizing backend performance, and building interactive web applications. 
+Highly motivated Software Developer with practical experience in **Python, Go, Java, and Cloud technologies**. Skilled in designing data-driven systems, optimizing backend performance, and building interactive web applications.
+
+---
+
+## 🛠️ Technical Skills & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br/>
+  <!-- Frameworks & Frontend -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br/>
+  <!-- Cloud & DevOps -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ---
 
@@ -16,6 +43,7 @@ Highly motivated Software Developer with practical experience in **Python, Go, J
 ---
 
 ## 🚀 Featured Projects
+*(Tip: Take screenshots of your running apps and drag & drop them right here to add visuals!)*
 
 ### 📊 Analytics & Load Simulation Tool (`analytics-load-tool`)
 *   A production-grade traffic simulation infrastructure built with **Go, MongoDB, BigQuery, Docker, and Kubernetes**.
@@ -34,16 +62,14 @@ Highly motivated Software Developer with practical experience in **Python, Go, J
 
 ---
 
-## 🛠️ Technical Skills
+## 📊 GitHub Analytics
 
-*   **Languages:** Python, Go, C#, Java, C, JavaScript, TypeScript
-*   **Web & Frameworks:** React, Angular 18, Node.js, .NET Core, Spring Boot, HTML5/CSS3
-*   **Databases & Cloud:** SQL Server, MongoDB, BigQuery, AWS
-*   **Tools & DevOps:** Docker, Kubernetes, Git, Datadog, Consul
+<p align="left">
+  <img src="https://vercel.app" alt="Hadas's GitHub Stats" height="180" />
+</p>
 
 ---
 
 ## 📫 Connect with me
 *   📧 **Email:** [h0527622740@gmail.com](mailto:h0527622740@gmail.com)
-*   💼 **LinkedIn:** [Your LinkedIn Profile URL] *(עדכני כאן קישור)*
 *   🐙 **GitHub:** [://github.com](https://://github.com)
