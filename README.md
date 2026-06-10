@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Hadas Shemesh
+### Full Stack Developer | Software Engineer
 
-<!--
-**Hadas2143/Hadas2143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Work Experience
+*   **Full-Stack Developer** (2025 – Present): End-to-end web apps, focusing on React, Angular, Node.js, Python, and SQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 TODO-Agent - AI-Powered Assistant
+*   AI-driven automation, Natural Language Processing, Python.
+
+### 💼 Enterprise Management Platform
+*   React, C# .NET Core, SQL Server, Entity Framework.
+
+### 🍳 Angular-NodeJS-MongoDB App
+*   Full-stack app, REST APIs, TypeScript, MongoDB.
+
+---
+
+## 📫 Contact Me
+*   📧 **Email:** H0527622740@gmail.com
+*   📱 **GitHub:** https://github.com/Hadas2143/
