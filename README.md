@@ -48,12 +48,10 @@ Highly motivated Software Developer with practical experience in **Python, Go, J
 A production-grade, high-throughput traffic simulation infrastructure built to replicate historical data patterns with **93% precision** for active team testing.
 
 #### **System Architecture & Flow**
-<!-- גררי לפה את תמונת הארכיטקטורה הכחולה עם הריבועים הלבנים -->
-
+<img width="452" height="464" alt="{4A311C81-DD43-4883-9CD9-86D4944EFEAF}" src="https://github.com/user-attachments/assets/63df5dfa-ad05-4c76-8ceb-8907362a3111" />
 
 #### **Datadog Monitoring Dashboard**
-<!-- גררי לפה את תמונת הגרפים הלבנה של הדאשבורד -->
-
+<img width="1070" height="139" alt="{75321443-0066-438A-899E-7541500703AC}" src="https://github.com/user-attachments/assets/acf844bf-0cda-4e29-a89c-1c3cf2adef1e" />
 
 *   **Tech Stack:** Go, MongoDB, BigQuery, Docker, Kubernetes, Consul, Datadog.
 
@@ -82,5 +80,5 @@ A production-grade, high-throughput traffic simulation infrastructure built to r
 
 ## 📫 Connect with me
 *   📧 **Email:** [h0527622740@gmail.com](mailto:h0527622740@gmail.com)
-*   💼 **LinkedIn:** [Your LinkedIn Profile URL] *(עדכני כאן את הקישור שלך)*
+*   💼 **LinkedIn:** [Your LinkedIn Profile URL]
 *   🐙 **GitHub:** [://github.com](https://://github.com)
