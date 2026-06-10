@@ -43,11 +43,21 @@ Highly motivated Software Developer with practical experience in **Python, Go, J
 ---
 
 ## 🚀 Featured Projects
-*(Tip: Take screenshots of your running apps and drag & drop them right here to add visuals!)*
 
 ### 📊 Analytics & Load Simulation Tool (`analytics-load-tool`)
-*   A production-grade traffic simulation infrastructure built with **Go, MongoDB, BigQuery, Docker, and Kubernetes**.
-*   Successfully reached **93% precision** in historical data replication for active team usage.
+A production-grade, high-throughput traffic simulation infrastructure built to replicate historical data patterns with **93% precision** for active team testing.
+
+#### **System Architecture & Flow**
+<!-- גררי לפה את תמונת הארכיטקטורה הכחולה עם הריבועים הלבנים -->
+
+
+#### **Datadog Monitoring Dashboard**
+<!-- גררי לפה את תמונת הגרפים הלבנה של הדאשבורד -->
+
+
+*   **Tech Stack:** Go, MongoDB, BigQuery, Docker, Kubernetes, Consul, Datadog.
+
+---
 
 ### 🛍️ Inventory Management & Store Website (`React-ASF.core-SQL`)
 *   Full-stack system featuring a layered **C# Web API** backend and a responsive **React** frontend.
@@ -72,4 +82,5 @@ Highly motivated Software Developer with practical experience in **Python, Go, J
 
 ## 📫 Connect with me
 *   📧 **Email:** [h0527622740@gmail.com](mailto:h0527622740@gmail.com)
+*   💼 **LinkedIn:** [Your LinkedIn Profile URL] *(עדכני כאן את הקישור שלך)*
 *   🐙 **GitHub:** [://github.com](https://://github.com)
